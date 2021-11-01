@@ -1,0 +1,7 @@
+vendor
+tmp/*
+tmp
+config.json
+node_modules/
+dist/
+.DS_Store
